@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412364105940",
+    "project_id": "login-page-76010",
+    "storage_bucket": "login-page-76010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412364105940:android:bf3cc7562b4eff713e3341",
+        "android_client_info": {
+          "package_name": "com.abdallahlogin.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412364105940-0225ebdv1tv9cs53p1bm9tqgu9nrebl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1DdfcC8W_dWXTlZwMnWFzFyOOxrp_3eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412364105940-0225ebdv1tv9cs53p1bm9tqgu9nrebl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
